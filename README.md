@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Evelyn Azalea</h1>
 <h3 align="center">A student who codes in their free time and has taken an interest in the math behind neural networks.</h3>
 
-- 🔭 I’m currently working on **Flora Casus** --> https://github.com/StarlitVienna/Flora-Casus
+- 🔭 I’m currently working on **PlurallScraper** --> https://github.com/StarlitVienna/PlurallScraper
 
 - 🌱 I’m currently learning **Pytorch and Tensorflow**
 
