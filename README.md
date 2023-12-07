@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PlurallScraper** --> https://github.com/StarlitVienna/PlurallScraper/tree/dev-branch
 
-- 🌱 I’m currently learning **Pytorch and Tensorflow**
+- 🌱 I’m currently learning **Pytorch, Tensorflow and Selenium**
 
 - 📫 How to reach me **evelynartoria@gmail.com**
 
