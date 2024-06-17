@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Vienna</h1>
 <h3 align="center">A student who codes in their free time and has taken an interest in the math behind neural networks.</h3>
 
-- 🔭 I’m currently working on **PlurallScraper** --> https://github.com/StarlitVienna/PlurallScraper/tree/dev-branch
+- 🔭 My last project was **PlurallScraper**, a scraper that backups everything from the maestro page of Plurall --> https://github.com/StarlitVienna/PlurallScraper/tree/dev-branch
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow and Selenium**
 
-- 📫 How to reach me **evelynartoria@gmail.com**
+- 📫 How to reach me **starlitvienna@starlitvienna.com**
 
 - ⚡ Fun fact **I love cats**
 
