@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Vienna</h1>
 <h3 align="center">A student who codes in her free time and has taken an interest in the math behind neural networks. 🏳️‍⚧️ </h3>
 
-- 🔭 My last project was **PlurallScraper**, a scraper that backups everything from the maestro page of Plurall --> https://github.com/StarlitVienna/PlurallScraper/tree/dev-branch
+- 🔭 My last project was **PlurallScraper**, a scraper that backups everything from the maestro page of Plurall --> [PlurallScraper](https://github.com/StarlitVienna/PlurallScraper/tree/dev-branch)
 
 - ⭐️ I'm currently working on a project that allows LLMs to use a browser
 
