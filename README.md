@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I am Vienna</h1>
-<h3 align="center">A student who codes in her free time and has taken an interest in the math behind neural networks. 🏳️‍⚧️ </h3>
+<h1 align="center">Hi, I am Vienna ૮ ˶ᵔ ᵕ ᵔ˶ ა 🏳️‍⚧️ </h1>
+<h3 align="center"> I love data science, EDA and building deep learning models </h3>
 
-- 🔭 My last project was **PlurallScraper**, a scraper that backups everything from the maestro page of Plurall --> [PlurallScraper](https://github.com/StarlitVienna/PlurallScraper/tree/dev-branch)
-
-- ⭐️ I'm currently working on a project that allows LLMs to use a browser
+- ⭐️ I'm currently working on a AI shimeji project with VLM
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow and Selenium**
 
