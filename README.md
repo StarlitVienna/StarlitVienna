@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Vienna ૮ ˶ᵔ ᵕ ᵔ˶ ა 🏳️‍⚧️ </h1>
+<h1 align="center">Hi, I am Vienna ૮ ˶ᵔ ᵕ ᵔ˶ ა </h1>
 <h3 align="center"> I love data science, EDA and building deep learning models </h3>
 
 - ⭐️ I'm currently working on a AI shimeji project with VLM
