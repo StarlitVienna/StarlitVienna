@@ -10,6 +10,8 @@
 - My website --> https://starlitvienna.com
 
 - My kaggle --> https://www.kaggle.com/evelynartoria
+  
+- My discord --> starlitvienna (DMs open)
 
 - I'm 18; aug 06
 
